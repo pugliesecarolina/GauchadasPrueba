@@ -97,7 +97,7 @@ h6 {
 
 @font-face {
   font-family: Cocosignum;
-  src: url(/assets/cocosignum/Cocosignum\ 2/Cocosignum-Corsivo-Italico-Bold-trial.ttf);
+  src: url(../assets/cocosignum/Cocosignum\ 2/Cocosignum-Corsivo-Italico-Bold-trial.ttf);
 }
 
 .header .logo h1 {
@@ -478,6 +478,10 @@ h6 {
   margin-top: 5px;
   font-size: 13px;
   font-weight: 600;
+}
+
+.footer {
+  color: #ffffff;
 }
 
 /*--------------------------------------------------------------
@@ -1251,6 +1255,14 @@ section,
   border: 3px solid #ffffff;
 }
 
+.testimonials p {
+  color: #ffffff;
+}
+
+.testimonials h2 {
+  color: #ffffff;
+}
+
 /*--------------------------------------------------------------
 # Events Section
 --------------------------------------------------------------*/
@@ -1589,6 +1601,14 @@ section,
     transform: scale(1.2);
     transition: none;
   }
+}
+
+.gallery h2 {
+  color: #ffffff;
+}
+
+.gallery p {
+  color: #ffffff;
 }
 
 /*--------------------------------------------------------------
